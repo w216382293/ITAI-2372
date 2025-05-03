@@ -1,0 +1,1 @@
+This repository contains a series of assignments and case studies exploring real-world applications and societal implications of artificial intelligence across multiple sectors, including healthcare, agriculture, finance, government, manufacturing, entertainment, and smart cities.
